@@ -1,5 +1,5 @@
 galaxy_info:
-  author: Nikhil Jain
+  author: Nikhil Jain (nikhjain@redhat.com)
   description: Ansible role to print message using variable
   company: your company (optional)
 
