@@ -1,4 +1,4 @@
-Role Name: Print message using custom variable
+Role Name: nikhjain14.printmessage
 =========
 
 This role is just to print the normal message using custom varialbe.
