@@ -1,0 +1,4 @@
+---
+# tasks file for PrintMessage
+ - name: Print Message
+   debug: msg="{{ message }}"
