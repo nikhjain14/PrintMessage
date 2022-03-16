@@ -1,7 +1,7 @@
-Role Name
+Role Name: Print message using custom variable
 =========
 
-A brief description of the role goes here.
+This role is just to print the normal message using custom varialbe.
 
 Requirements
 ------------
@@ -25,7 +25,7 @@ Including an example of how to use your role (for instance, with variables passe
 
     - hosts: servers
       roles:
-         - { role: username.rolename, x: 42 }
+         - { role: username.rolename }
 
 License
 -------
